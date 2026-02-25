@@ -1,0 +1,9 @@
+{
+  "name": "intermittent-recording",
+  "description": "间歇性记录插件 - 柳比歇夫式时间日志系统，包含日记构建器(diary-builder)和日复盘(day-reflection)两个核心技能",
+  "version": "1.0.0",
+  "author": {
+    "name": "zo-no"
+  },
+  "homepage": "https://github.com/zo-no/intermittent-recording"
+}
